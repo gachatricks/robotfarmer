@@ -1,0 +1,9 @@
+F:\Others\PROJECTS\VS\2018\AutoFarmV2.0\AutoFarmV1\bin\Debug\Robot Farmer.exe
+F:\Others\PROJECTS\VS\2018\AutoFarmV2.0\AutoFarmV1\bin\Debug\Robot Farmer.pdb
+F:\Others\PROJECTS\VS\2018\AutoFarmV2.0\AutoFarmV1\obj\Debug\AutoFarmV1.csprojAssemblyReference.cache
+F:\Others\PROJECTS\VS\2018\AutoFarmV2.0\AutoFarmV1\obj\Debug\RobotFarmer.Form1.resources
+F:\Others\PROJECTS\VS\2018\AutoFarmV2.0\AutoFarmV1\obj\Debug\RobotFarmer.Properties.Resources.resources
+F:\Others\PROJECTS\VS\2018\AutoFarmV2.0\AutoFarmV1\obj\Debug\AutoFarmV1.csproj.GenerateResource.cache
+F:\Others\PROJECTS\VS\2018\AutoFarmV2.0\AutoFarmV1\obj\Debug\AutoFarmV1.csproj.CoreCompileInputs.cache
+F:\Others\PROJECTS\VS\2018\AutoFarmV2.0\AutoFarmV1\obj\Debug\Robot Farmer.exe
+F:\Others\PROJECTS\VS\2018\AutoFarmV2.0\AutoFarmV1\obj\Debug\Robot Farmer.pdb
